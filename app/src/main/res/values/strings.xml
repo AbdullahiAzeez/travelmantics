@@ -2,4 +2,8 @@
     <string name="app_name">Travelmantics</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_admin">AdminActivity</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_new_deal">New Deal</string>
+    <string name="action_save_deal">Save</string>
+    <string name="action_del_deal">Delete</string>
 </resources>
